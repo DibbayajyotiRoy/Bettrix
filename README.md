@@ -34,13 +34,6 @@ License
 ---
 
 ## ⚙️ Tech Stack
-Frontend	React.js, Redux, Tailwind CSS
-Backend	Node.js, Express
-Database	PostgreSQL
-Authentication	JWT, OAuth 2.0
-Hosting	AWS / Vercel
-
-
 | Layer | Technologies Used |
 |------------|----------------------------------------------------|
 | **Frontend** | Next.js, React Router, Tailwind CSS |
@@ -94,13 +87,13 @@ For detailed guidelines, please see CONTRIBUTING.md (if available).
 ### 🎯 Dibbayajyoti Roy *(Full-Stack)*
 🔗 [LinkedIn](https://www.linkedin.com/in/dibbayajyoti-roy-388957250/) | 💻 [GitHub](https://github.com/DibbayajyotiRoy)
 
-Nabhanil Chakraborty
+### Nabhanil Chakraborty
 🔗 LinkedIn | 💻 [GitHub](https://github.com/Nabhanil)
 
-Kalpita Roy
+### Kalpita Roy
 🔗 LinkedIn | 💻 [GitHub](https://github.com/Kalpita-Roy)
 
-Bisakha Malakar
+### Bisakha Malakar
 🔗 LinkedIn |  💻 [GitHub](https://github.com/VISHAKHA1589)
 
 ---
@@ -110,5 +103,5 @@ Bisakha Malakar
 
 ---
 
-##Contact & Support
+## Contact & Support
 For questions or support, please open an issue or contact the developers via their GitHub profiles.
