@@ -95,13 +95,13 @@ For detailed guidelines, please see CONTRIBUTING.md (if available).
 🔗 [LinkedIn](https://www.linkedin.com/in/dibbayajyoti-roy-388957250/) | 💻 [GitHub](https://github.com/DibbayajyotiRoy)
 
 Nabhanil Chakraborty
-🔗 LinkedIn | 💻 GitHub
+🔗 LinkedIn | 💻 [GitHub](https://github.com/Nabhanil)
 
 Kalpita Roy
-🔗 LinkedIn | 💻 GitHub
+🔗 LinkedIn | 💻 [GitHub](https://github.com/Kalpita-Roy)
 
 Bisakha Malakar
-🔗 LinkedIn | 💻 GitHub
+🔗 LinkedIn |  💻 [GitHub](https://github.com/VISHAKHA1589)
 
 ---
 
