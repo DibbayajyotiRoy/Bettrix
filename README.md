@@ -52,20 +52,32 @@ Hosting	AWS / Vercel
 
 ## 🚀 Getting Started
 ### 1. Clone the Repository
-bash
-git clone https://github.com/your-org/bettrix.git
-cd bettrix
-Install dependencies
-bash
+```bash
+gh repo clone VISHAKHA1589/Bettrix
+cd Bettrix
+```
+### 2. Install Frontend Dependencies
+```bash
+cd client
 npm install
-Start the frontend
-bash
+```
+```bash
 npm run dev
+```
+### 3. Install Backend Dependencies
 Start the backend
-bash
-cd backend
+```bash
+cd server
 npm start
-Contributing
+```
+---
+
+## 🌐 Live Demo
+👉 Try it here: [Betrrix]()
+
+---
+
+## Contributing
 We welcome contributions from the community! Please follow these steps:
 
 Open issues for bugs or feature requests
@@ -76,9 +88,11 @@ Share feedback and ideas
 
 For detailed guidelines, please see CONTRIBUTING.md (if available).
 
-Developers
-Dibbayajyoti Roy
-🔗 LinkedIn | 💻 GitHub
+---
+
+## 👨‍💻 Developers
+### 🎯 Dibbayajyoti Roy *(Full-Stack)*
+🔗 [LinkedIn](https://www.linkedin.com/in/dibbayajyoti-roy-388957250/) | 💻 [GitHub](https://github.com/DibbayajyotiRoy)
 
 Nabhanil Chakraborty
 🔗 LinkedIn | 💻 GitHub
@@ -89,12 +103,12 @@ Kalpita Roy
 Bisakha Malakar
 🔗 LinkedIn | 💻 GitHub
 
-License
-This project is licensed under the MIT License.
+---
 
-Contact & Support
+## License
+**This project is licensed under the MIT License.**
+
+---
+
+##Contact & Support
 For questions or support, please open an issue or contact the developers via their GitHub profiles.
-
-Last updated: May 8, 2025
-
-This format follows GitHub’s recommended README structure: clear project description, easy navigation with a table of contents, installation and usage instructions, contribution guidelines, credits, and license info
