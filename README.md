@@ -93,7 +93,7 @@ For detailed guidelines, please see CONTRIBUTING.md (if available).
 ### Kalpita Roy
 🔗 LinkedIn | 💻 [GitHub](https://github.com/Kalpita-Roy)
 
-### Bisakha Malakar
+### Bishakha Malakar
 🔗 LinkedIn |  💻 [GitHub](https://github.com/VISHAKHA1589)
 
 ---
