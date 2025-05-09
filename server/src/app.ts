@@ -2,6 +2,7 @@ import express from 'express';
 import cors from 'cors';
 import helmet from 'helmet';
 import { testConnection } from './config/database';
+
 // import tradingRoutes from './domains/trading/routes';
 
 const app = express();
